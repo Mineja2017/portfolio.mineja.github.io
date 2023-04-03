@@ -1,9 +1,9 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: Jaime García - Portfolio
+description: "Portfolio 2ºBach"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "Mineja"
+  email: "j.garcia.47@villalkor.com"
+  url: ""
 
 baseurl: /
 
@@ -28,5 +28,14 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
-year : "2020"
+owner : "Mineja"
+year : "2023"
+
+# Html code
+
+#markdown: kramdown
+#kramdown:
+#  parse_block_html: true
+
+# Ruta de la imagen favicon
+favicon: /assets/images/Favicon/favicon.png
