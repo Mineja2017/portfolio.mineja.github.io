@@ -33,9 +33,5 @@ year : "2023"
 
 # Html code
 
-#markdown: kramdown
-#kramdown:
-#  parse_block_html: true
-
-# Ruta de la imagen favicon
-favicon: /assets/images/Favicon/favicon.png
+#Favicon
+favicon: /assets/favicon.png

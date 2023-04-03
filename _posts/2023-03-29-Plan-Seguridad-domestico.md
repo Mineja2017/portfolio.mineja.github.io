@@ -13,8 +13,6 @@ Tras aprender sobre la **Seguridad en Internet** con las siguientes presentacion
 
 * [Malware](https://docs.google.com/presentation/d/1EppS-AZ0QwuPQV3WPy82uqnMWn5IP-PeqNlUoQrTM4Y/edit?usp=sharing)
 
-* [Certificados Digitales](https://docs.google.com/presentation/d/1QBthmSAA3zT4HPz2vGJPeBhfPJKVA3qlI3L1kydLPWM/edit?usp=sharing)
-
 Se pidió una presentación acompañada de un video para explicar cada punto de un plan doméstico individual.
 
 ## Instrucciones
@@ -46,7 +44,7 @@ Las instrucciones propuestas para la entrega fueron las siguientes:
 
 ## Resultado
 
-El trabajo una vez finalizado se vería tal que así (dejo una previews):
+El trabajo una vez finalizado se vería tal que así (dejo una preview):
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRqubXfcctfCZyJY8Kg7IQ_KxF3O4Qm0nACJkcEUB6XUTW4cMA-5jnKGl-QMhbCYkrDiP44bkNqEndZ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="285" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
