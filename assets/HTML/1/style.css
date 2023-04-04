@@ -1,0 +1,66 @@
+.center {
+
+	width: 600px; /*Definimos mismo ancho y alto*/
+	height: 300px;
+	margin: auto; /*Ajustamos los márgenes de manera automatica*/
+}
+header {
+
+	width: 600px;
+	height: 100px;
+	background-color: lightblue;
+}
+
+nav {
+
+	width: 150px;
+	height: 200px;
+	background-color: lightpink;
+	float: left; /*Evitamos que se peguen abajo (trabajo por capas)*/
+}
+
+.but {
+
+	display: block; /*Hacemos que que esta etiquita a se comporte como texto en un bloque vertical*/
+	width: 100px;
+	height: 20px;
+	margin: auto; /*Centramos los botones dentro del nav*/
+	text-align: center; /*como "a" es una etiqueta de texto alineamos en el cetro el texto dentro del boton*/
+}
+
+.group1 {
+
+	background-color: grey;
+	color: white;
+	margin-top: 2px;
+}
+
+.group2 {
+
+	background-color: black;
+	color: white;
+	margin-top: 2px;
+}
+
+.group3 {
+
+	background-color: grey;
+	color: white;
+	margin-top: 2px;
+}
+
+content {
+
+	width: 450px;
+	height: 200px;
+	background-color: lightgreen;
+	float: left; /*Evitamos que se peguen abajo (trabajo por capas)*/
+}
+
+footer {
+
+	width: 600px;
+	height: 100px;
+	background-color: lightblue;
+	clear: both; /*Limpiamos las capas*/
+}

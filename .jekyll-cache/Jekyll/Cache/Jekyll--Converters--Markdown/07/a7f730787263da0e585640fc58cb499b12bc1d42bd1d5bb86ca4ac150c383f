@@ -1,0 +1,67 @@
+I"+<h2 id="introducción">Introducción</h2>
+
+<p>Con el final de la primera evaluación comenzamos con la teoria y las primeras prácticas de  <strong>Diseño Web</strong> ayudándonos de herramientas conmo <a href="https://www.sublimetext.com/3">Sublime Text</a>, <a href="https://www.7-zip.org/">7zip</a> y <a href="https://www.w3schools.com/">La referencia de w3 Schools</a> donde se puede buscar todos lo que haremos. Ademas, de esta presentación a modo de introducción:</p>
+
+<ul>
+  <li><a href="https://docs.google.com/presentation/d/18-54oxuP-LPgknQHyBH90gJstTjugfc7ik7Lmsc0Qlk/edit#slide=id.p1">HTML</a></li>
+</ul>
+
+<p>Se pidió una presentación acompañada de un video para explicar Como funcionan y la obtención de los certificados digitales.</p>
+
+<h2 id="instrucciones">Instrucciones</h2>
+
+<p>Las instrucciones propuestas para la entrega fueron las siguientes:</p>
+
+<ul>
+  <li>Crea una presentación en google slides.</li>
+  <li>Redacta los 4 certificados digitales. De cada uno de ellos:
+    <ul>
+      <li>Cada certificado en una diapositiva</li>
+      <li>Explicación breve de cómo se obtiene y cómo se utiliza.</li>
+      <li>Se insertarán enlaces (fácilmente reconocibles) a los vídeos consultados.</li>
+      <li>Máximo: 5 diapositivas (1 de título + 1 cad certificado)</li>
+    </ul>
+  </li>
+  <li>Nombre del archivo: “nombre apellido1 apellido2 T1.2”</li>
+  <li>Una vez redactada la presentación, se deberá grabar un vídeo:
+    <ul>
+      <li>Explicando toda la información.</li>
+      <li>Se debe ver:
+        <ul>
+          <li>La presentación</li>
+          <li>La persona autora del vídeo</li>
+        </ul>
+      </li>
+      <li>Máximo de tiempo del vídeo 5 Minutos</li>
+    </ul>
+  </li>
+  <li>Nombre del archivo: “nombre apellido1 apellido2 T1.2”</li>
+</ul>
+
+<h2 id="resultado">Resultado</h2>
+
+<p>El trabajo una vez finalizado se vería tal que así (dejo una preview):</p>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT_tqqGqsPr0d6uJkd60ooI40nWZh7WJlmGVCIScYV-n7ZqhypVOIA2PvbIUyV4lCCRBvN1OjPh9QCW/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="285" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<iframe src="https://www.loom.com/embed/db991c27c0f24770a37689124e2fa267" frameborder="0" width="480" height="285" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<h2 id="area-de-descargas">Area de Descargas</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Descripción</th>
+      <th style="text-align: left">PowerPoint</th>
+      <th style="text-align: left">Vídeo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Resultado final</td>
+      <td style="text-align: left"><a href="https://docs.google.com/presentation/d/1y1rjqrng3lXspaeOVd7qsFAUNToJE-Kv1lWaKA82ELw/edit?usp=sharing">Enlace a la presentación</a></td>
+      <td style="text-align: left"><a href="https://www.loom.com/embed/db991c27c0f24770a37689124e2fa267">Enlace a loom</a></td>
+    </tr>
+  </tbody>
+</table>
+:ET
