@@ -1,0 +1,55 @@
+I"u<h2 id="introducción">Introducción</h2>
+
+<p>COntinuamos con la segunda práctica del trimestre y con el video de muestra de los que debemos hacer:</p>
+
+<ul>
+  <li><a href="https://drive.google.com/file/d/1Dwl8yT34ZdeNwM2fKsGM7RKoerZpLn4Y/view">Video de ejemplo</a></li>
+  <li><a href="https://docs.google.com/presentation/d/1ujVJv77c0yl8c3EG2Z8Z4Jzfh2VNHiQ1XuCzLsl3d2o/edit?usp=drive_web&amp;authuser=1">Presentación-explicación</a></li>
+</ul>
+
+<h2 id="instrucciones">Instrucciones</h2>
+
+<p>A partir de la figura anterior</p>
+
+<h2 id="resultado">Resultado</h2>
+
+<p>Para esta práctica he utilizado una funcion que importa una imagen <em>“.svg”</em> para luego editarla.</p>
+
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="nc">PShape</span> <span class="n">iron</span><span class="o">;</span>
+
+<span class="kt">void</span> <span class="nf">setup</span><span class="o">()</span> <span class="o">{</span>
+
+  <span class="n">size</span><span class="o">(</span><span class="mi">500</span><span class="o">,</span> <span class="mi">500</span><span class="o">);</span>
+  <span class="n">iron</span> <span class="o">=</span> <span class="n">loadShape</span><span class="o">(</span><span class="s">"iron_man_icon.svg"</span><span class="o">);</span>
+<span class="o">}</span>
+
+<span class="kt">void</span> <span class="nf">draw</span><span class="o">()</span> <span class="o">{</span>
+
+  <span class="n">noStroke</span><span class="o">();</span>
+  <span class="n">fill</span><span class="o">(</span><span class="mi">255</span><span class="o">,</span><span class="mi">0</span><span class="o">,</span> <span class="mi">0</span><span class="o">);</span>
+  <span class="n">ellipse</span><span class="o">(</span><span class="mi">250</span><span class="o">,</span> <span class="mi">430</span><span class="o">,</span> <span class="mi">40</span><span class="o">,</span><span class="mi">40</span><span class="o">);</span>
+  <span class="n">triangle</span><span class="o">(</span><span class="mi">200</span><span class="o">,</span> <span class="mi">390</span><span class="o">,</span> <span class="mi">250</span><span class="o">,</span> <span class="mi">430</span><span class="o">,</span> <span class="mi">200</span><span class="o">,</span> <span class="mi">450</span><span class="o">);</span>
+  <span class="n">triangle</span><span class="o">(</span><span class="mi">300</span><span class="o">,</span> <span class="mi">390</span><span class="o">,</span> <span class="mi">250</span><span class="o">,</span> <span class="mi">430</span><span class="o">,</span> <span class="mi">300</span><span class="o">,</span> <span class="mi">450</span><span class="o">);</span>
+  <span class="n">shape</span><span class="o">(</span><span class="n">iron</span><span class="o">,</span> <span class="mi">150</span><span class="o">,</span> <span class="mi">100</span><span class="o">);</span>
+<span class="o">}</span>
+
+</code></pre></div></div>
+
+<h2 id="area-de-descargas">Area de Descargas</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Descripción</th>
+      <th style="text-align: left">Codigo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Entrega</td>
+      <td style="text-align: left"><a href="https://drive.google.com/file/d/1cczKepKNeiobfeePCqjk-vw2PctHJ2zf/view">Enlace a la carpeta con la imagen y el codigo</a></td>
+    </tr>
+  </tbody>
+</table>
+:ET

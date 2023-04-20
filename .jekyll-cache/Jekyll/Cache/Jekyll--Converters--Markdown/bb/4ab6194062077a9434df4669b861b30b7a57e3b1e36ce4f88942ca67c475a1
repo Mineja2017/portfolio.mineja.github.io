@@ -1,0 +1,54 @@
+I"*<h2 id="introducción">Introducción</h2>
+
+<p>Para comenzar la tercera evaluación se expliará processing que en este caso se usará con JAVA. Podemos descargarlo desde <a href="https://processing.org/download">aquí</a> y se adjunta esta presentación a modo de introduccion y explicación:</p>
+
+<ul>
+  <li><a href="https://docs.google.com/presentation/d/1hiomSoA2434bbqRuy96HOiNQXeKl4XY3S4YxsTp1oO8/edit#slide=id.p">Presentación</a></li>
+</ul>
+
+<h2 id="instrucciones">Instrucciones</h2>
+
+<p>Se debe crear una figura esquematíca del superheroe <em>Iron Man</em> mediante la utilización de las formas explicadas. Además se deberá incluir un pequeño guiño o detalle extra (Corbata, gafas, lazos….)</p>
+
+<h2 id="resultado">Resultado</h2>
+
+<p>Para esta práctica he utilizado una funcion que importa una imagen <em>“.svg”</em> para luego editarla.</p>
+
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="nc">PShape</span> <span class="n">iron</span><span class="o">;</span>
+
+<span class="kt">void</span> <span class="nf">setup</span><span class="o">()</span> <span class="o">{</span>
+
+  <span class="n">size</span><span class="o">(</span><span class="mi">500</span><span class="o">,</span> <span class="mi">500</span><span class="o">);</span>
+  <span class="n">iron</span> <span class="o">=</span> <span class="n">loadShape</span><span class="o">(</span><span class="s">"iron_man_icon.svg"</span><span class="o">);</span>
+<span class="o">}</span>
+
+<span class="kt">void</span> <span class="nf">draw</span><span class="o">()</span> <span class="o">{</span>
+
+  <span class="n">noStroke</span><span class="o">();</span>
+  <span class="n">fill</span><span class="o">(</span><span class="mi">255</span><span class="o">,</span><span class="mi">0</span><span class="o">,</span> <span class="mi">0</span><span class="o">);</span>
+  <span class="n">ellipse</span><span class="o">(</span><span class="mi">250</span><span class="o">,</span> <span class="mi">430</span><span class="o">,</span> <span class="mi">40</span><span class="o">,</span><span class="mi">40</span><span class="o">);</span>
+  <span class="n">triangle</span><span class="o">(</span><span class="mi">200</span><span class="o">,</span> <span class="mi">390</span><span class="o">,</span> <span class="mi">250</span><span class="o">,</span> <span class="mi">430</span><span class="o">,</span> <span class="mi">200</span><span class="o">,</span> <span class="mi">450</span><span class="o">);</span>
+  <span class="n">triangle</span><span class="o">(</span><span class="mi">300</span><span class="o">,</span> <span class="mi">390</span><span class="o">,</span> <span class="mi">250</span><span class="o">,</span> <span class="mi">430</span><span class="o">,</span> <span class="mi">300</span><span class="o">,</span> <span class="mi">450</span><span class="o">);</span>
+  <span class="n">shape</span><span class="o">(</span><span class="n">iron</span><span class="o">,</span> <span class="mi">150</span><span class="o">,</span> <span class="mi">100</span><span class="o">);</span>
+<span class="o">}</span>
+
+</code></pre></div></div>
+
+<h2 id="area-de-descargas">Area de Descargas</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Descripción</th>
+      <th style="text-align: left">Codigo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Entrega</td>
+      <td style="text-align: left"><a href="https://drive.google.com/file/d/1cczKepKNeiobfeePCqjk-vw2PctHJ2zf/view">Enlace a la carpeta con la imagen y el codigo</a></td>
+    </tr>
+  </tbody>
+</table>
+:ET
