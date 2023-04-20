@@ -1,0 +1,71 @@
+I"(<h2 id="introducción">Introducción</h2>
+
+<p>Llegado el final del trimestre haremos la practica final que consiste en la creación de uan pagina web mas “Profesional” contamos con las siguientes instrucciones:</p>
+
+<ul>
+  <li><a href="https://drive.google.com/file/d/1kyBP1mS53BnxI0Cz1sbTZHe-llbdk4uS/view">Video al ejemplo página 1</a></li>
+  <li><a href="https://drive.google.com/file/d/1uBuoTqPAs53RL3010yxXc0hBJ3E3f4wE/view">Video al ejemplo página 2</a></li>
+  <li><a href="https://drive.google.com/file/d/1GQnkHANAqLNKb5dL7Mj-ozL_oKTviqnU/view">Video al ejemplo página 3</a></li>
+  <li><a href="https://drive.google.com/file/d/1wp50EpKVGQgcovpyeBVbVSOnWIdgdOXq/view">Video al ejemplo de estructura</a></li>
+</ul>
+
+<h2 id="instrucciones">Instrucciones</h2>
+
+<p>Se debe crear una página web similar a la de los vídeos explicativos.</p>
+
+<p>Se utilizan colores, tamaños, fuentes, etc… que se estimen oportunos.</p>
+
+<p>Se deben replicar todos los efectos y utilizar todas las herramientas que aparecen en los vídeos.</p>
+
+<h3 id="efectos-nuevos">Efectos nuevos</h3>
+
+<h4 id="botones">Botones</h4>
+
+<p>Se han de utilizar botones (como hemos aprendido en clase), pero su formato  no se creará, se copiará. Para ello, se debe investigar en internet sobre páginas de botones creados en css, escoger un modelo, copiar el código y utilizarlo en esta práctica.</p>
+
+<p>Cada modelo de botón debe ser único, no se puede repetir. Para informar a la clase sobre el modelo de  botón escogido se grabará un vídeo en el que se vea como cambia (basta con grabar el vídeo en del funcionamiento de la propia página donde se copia el código), se subirá a la <a href="https://drive.google.com/drive/u/1/folders/16lSxfxRshUEBNvB63LJvp3u9oU83hTy8">carpeta</a> que se da acceso en esta tarea. El nombre del vídeo será “nombre de autor y apellidos”.</p>
+
+<p>Ver vídeo de ejemplo</p>
+
+<h3 id="aumento-de-las-imágenes">Aumento de las imágenes</h3>
+
+<p>https://www.w3schools.com/css/css3_transitions.asp</p>
+
+<p>Sorpresa, se hace igual que una transición (recordad cómo habéis hecho el aumento de los botones).</p>
+
+<h3 id="icono-en-pestaña">Icono en pestaña</h3>
+
+<p>pista: favicon</p>
+
+<h3 id="entrega">Entrega</h3>
+
+<ul>
+  <li>Se entregará la carpeta comprimida, con todos los archivos necesarios para ejecutar la web
+    <ul>
+      <li>Se debe poner todo en una carpeta, con nombre “nombre del autor y apellidos 6”. Esta carpeta es la que se comprime. De no llegar así, no se corregirá.</li>
+    </ul>
+  </li>
+  <li>El enlace exacto a la página web donde se encuentra el botón y su código (En mi caso <a href="https://dev.to/webdeasy/top-20-css-buttons-animations-f41">aquí</a>)</li>
+</ul>
+
+<h2 id="resultado">Resultado</h2>
+
+<p>Al tratarse de tres archivos en esta práctica no se motrararán debido al grandísimo espacio que ocupan, se podran encontrar en el <strong>Area de Descargas</strong></p>
+
+<h2 id="area-de-descargas">Area de Descargas</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Descripción</th>
+      <th style="text-align: left">Codigo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Entrega</td>
+      <td style="text-align: left"><a href="https://drive.google.com/file/d/1lH8a6o_qd1asggs8AKWbKjQ4v7i_ABR-/view">HTML y CSS</a></td>
+    </tr>
+  </tbody>
+</table>
+:ET

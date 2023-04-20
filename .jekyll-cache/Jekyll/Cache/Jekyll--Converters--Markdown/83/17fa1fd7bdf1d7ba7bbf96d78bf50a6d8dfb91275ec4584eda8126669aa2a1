@@ -1,0 +1,71 @@
+I"<<h2 id="introducción">Introducción</h2>
+
+<p>Llegado el final del trimestre haremos la practica final que consiste en la creación de uan pagina web mas “Profesional” contamos con las siguientes instrucciones:</p>
+
+<ul>
+  <li><a href="https://drive.google.com/file/d/1blOALmHenWVrbAPGXhjII9qHhFRu5R1K/view">Video al ejemplo página 1</a></li>
+  <li><a href="https://drive.google.com/file/d/1blOALmHenWVrbAPGXhjII9qHhFRu5R1K/view">Video al ejemplo página 2</a></li>
+  <li><a href="https://drive.google.com/file/d/1blOALmHenWVrbAPGXhjII9qHhFRu5R1K/view">Video al ejemplo página 3</a></li>
+</ul>
+
+<h2 id="instrucciones">Instrucciones</h2>
+
+<ul>
+  <li>Se puede utilizar como punto obligatorio de partida la práctica 2.
+    <ul>
+      <li>Se debe crear una página web parecida a la del vídeo de la descripción.</li>
+      <li>Se deben crear tres archivos de html. El archivo de css será el mismo para todos los archivos de html.
+        <ul>
+          <li>Cuidado. Antes de crear los archivos es recomendable completar la estructura general</li>
+        </ul>
+      </li>
+      <li>Primer archivo.
+        <ul>
+          <li>Debe contener una foto del autor de la página.</li>
+          <li>Al pasar el ratón por encima de la página, debe desplegarse un ventana que oculte la imagen (puede ponerse transparencia), y aparece un botón con el nombre del autor. El formato del botón debe ser igual a lanugo de la navegación (a elegir)
+            <ul>
+              <li>Nota: Se debe utilizar una imagen del autor.</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Segundo archivo
+        <ul>
+          <li>Se debe crear una galería de imágenes de 2x2 (para dar esta distribución se debe controlar el tamaño de la imagen).</li>
+          <li>La galería de imágenes  será tipo efecto polaroid.</li>
+          <li>Esta galería debe estar totalmente centrada. Hay varias formas de lograrlo. Se recomienda utilizar el flexbox.</li>
+        </ul>
+      </li>
+      <li>Tercer archivo
+        <ul>
+          <li>Se debe crear una galería de vídeos 1X2 para dar esta distribución se debe controlar el tamaño de la imagen.</li>
+          <li>La galería de vídeos contendrá un vídeo de youtube y un vídeo descargado  y guardado en la carpeta (estos vídeos serán de unos 5 segundos, para no ocupar mucho espacio).</li>
+          <li>Esta galería debe estar totalmente centrada. Hay varias formas de lograrlo. Se recomienda utilizar el flexbox.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Comentarios: En CSS, será obligatorio utilizar al menos 3 comentarios que separen e indiquen el inicio del código CSS necesario y único relacionado con los efectos de cada archivo HTML.</li>
+</ul>
+
+<h2 id="resultado">Resultado</h2>
+
+<p>Al tratarse de tres archivos en esta práctica no se motrararán debido al grandísimo espacio que ocupan, se podran encontrar en el <strong>Area de Descargas</strong></p>
+
+<h2 id="area-de-descargas">Area de Descargas</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Descripción</th>
+      <th style="text-align: left">Codigo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Entrega</td>
+      <td style="text-align: left"><a href="https://drive.google.com/file/d/1lH8a6o_qd1asggs8AKWbKjQ4v7i_ABR-/view">HTML y CSS</a></td>
+    </tr>
+  </tbody>
+</table>
+:ET
